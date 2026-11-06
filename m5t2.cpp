@@ -1,7 +1,7 @@
 // CSC 134
 // M5T2 - More Practice with Functions
-// Alexander Spears
-// Partner: Built in AI tool within GitHub. 
+// Alexander Spears (Driver)
+// Partner: Your instructions (Navigator)
 // 11/6/2026
 
 
